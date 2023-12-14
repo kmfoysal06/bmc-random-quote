@@ -1,4 +1,6 @@
 <?php
+// etoboro quote list dekhe voy payen nah.eta zenquote api theke churi kora :D
+
 $quotes = [
     [
         "q"=> "If you truly expect something to be difficult, it will be.",
